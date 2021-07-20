@@ -7,3 +7,9 @@ This app allows the user to enter a search term to look for an app. It returns a
 This app was created on Xcode using swift and Apple frameworks.
 
 Screenshots are shown from iPhone 11 Pro Max Simulator
+
+
+<p align="center">
+  <img src="Simulator Screen Shot - iPhone 11 Pro Max - 2021-07-20 at 12.15.06.png" width="350" title="hover text">
+  <img src="Simulator Screen Shot - iPhone 11 Pro Max - 2021-07-20 at 12.15.34.png" width="350" alt="accessibility text">
+</p>
